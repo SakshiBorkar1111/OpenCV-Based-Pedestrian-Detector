@@ -1,6 +1,4 @@
 # Pedestrian Detection in Video using OpenCV
-A computer vision project that detects pedestrians in videos using OpenCV’s Haar Cascade, featuring real-time visualization and processed video output.
-
 
 ## Overview: 
 This project detects pedestrians in videos using OpenCV and Haar Cascade Classifier. Each frame of the input video is processed to identify pedestrians, draw bounding boxes around them, and save the full processed video as output. This can be applied in surveillance, traffic monitoring, and smart city projects.
